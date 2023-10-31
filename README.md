@@ -1,5 +1,5 @@
-<section>
-  <img src="https://raw.githubusercontent.com/EltonJCS/modimisa/main/public/EJCS-light-logo.png" min-width="200px" max-width="600px" width="400px" align="right" alt="EltonJCS Logo">
+  <img src="https://raw.githubusercontent.com/EltonJCS/modimisa/main/public/EJCS-light-logo.png" min-width="200px" max-width="600px" width="400px" align="center" alt="EltonJCS Logo">
+  
   <div>
     <h3> 👨‍💻 Sobre mim </h3>
     <ul>
@@ -7,7 +7,6 @@
       <li>🎓 Graduado em **Ciência da Computação** na <a href="http://facape.br">FACAPE</a>.</li>
       <li>🌱 Estudando **React e Typescript**.</li>
     </ul>
-  </div>
 </section>
 
 <h3>:rocket: Minhas Skills </h3>
@@ -42,15 +41,6 @@
 -->
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-
-<!--
-  <section>
-    <a href="https://github.com/EltonJCS">
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EltonJCS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height='150em' src='https://github-readme-streak-stats.herokuapp.com?user=EltonJCS&theme=dracula&date_format=j%20M%5B%20Y%5D&fire=DD0000&ring=52DD81&dates=52DD81&stroke=ABCFDD' />
-    </a>
-  </section>
--->
   
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
