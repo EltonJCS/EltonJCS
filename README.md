@@ -1,9 +1,13 @@
-  <img src="https://raw.githubusercontent.com/EltonJCS/modimisa/main/public/EJCS-light-logo.png" min-width="200px" max-width="600px" width="400px" align="center" alt="EltonJCS Logo">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/EltonJCS/modimisa/main/public/EJCS-light-logo.png" width="200" alt="EltonJCS Logo">
+</div>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=750&pause=2000&color=f0f0f0&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Front-end;Front-end+Developer" align="center" alt="Typing SVG" /></a>
+</div>
   
   <div>
     <h3> 👨‍💻 Sobre mim </h3>
     <ul>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=750&pause=2000&color=f0f0f0&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Front-end;Front-end+Developer" alt="Typing SVG" /></a>
       <li>🎓 Graduado em **Ciência da Computação** na <a href="http://facape.br">FACAPE</a>.</li>
       <li>🌱 Estudando **React e Typescript**.</li>
     </ul>
@@ -16,6 +20,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Typescript](https://img.shields.io/badge/Typescript-52addf?style=for-the-badge&logo=typescript&logoColor=ffffff)
+  
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff)
 
