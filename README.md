@@ -8,8 +8,8 @@
   <div>
     <h3> 👨‍💻 Sobre mim </h3>
     <ul>
-      <li>🎓 Graduado em **Ciência da Computação** na <a href="http://facape.br">FACAPE</a>.</li>
-      <li>🌱 Estudando **React e Typescript**.</li>
+      <li>🎓 Graduado em <b>Ciência da Computação</b> na <a href="http://facape.br">FACAPE</a>.</li>
+      <li>🌱 Estudando <b>React</b> e <b>Typescript</b>.</li>
     </ul>
 </section>
 
