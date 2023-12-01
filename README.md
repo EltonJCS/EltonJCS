@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/EltonJCS/assets/blob/6b9aa48aa8d3a836fd189195b2271e10cdaebc8e/SVGs/Logos/EJCS/EJ_Light%202.svg" width="200" alt="EltonJCS Logo">
+  <img src="https://raw.githubusercontent.com/EltonJCS/assets/main/SVGs/Logos/EJCS/EJ_Light%202.svg" width="200" alt="EltonJCS Logo">
 </div>
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=750&pause=2000&color=f0f0f0&background=FFFFFF00&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Front-end;Front-end+Developer" align="center" alt="Typing SVG" /></a>
