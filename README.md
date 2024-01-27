@@ -6,8 +6,9 @@
 </div>
   
   <div>
-    <h3> 👨‍💻 Sobre mim </h3>
+    <h3> 👋 Sobre mim </h3>
     <ul>
+      <li>👨‍💻 Desenvolvedor <b>Front-end</b>.</li>
       <li>🎓 Graduado em <b>Ciência da Computação</b> na <a href="http://facape.br">FACAPE</a>.</li>
       <li>🌱 Estudando <b>React</b> e <b>Typescript</b>.</li>
     </ul>
@@ -17,9 +18,9 @@
 
 **Front-end**
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Typescript](https://img.shields.io/badge/Typescript-52addf?style=for-the-badge&logo=typescript&logoColor=ffffff)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
   
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff)
