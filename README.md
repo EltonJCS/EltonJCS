@@ -9,8 +9,8 @@
     <h3> 👋 Sobre mim </h3>
     <ul>
       <li>👨‍💻 Desenvolvedor <b>Front-end</b>.</li>
-      <li>🎓 Graduado em <b>Ciência da Computação</b> na <a href="http://facape.br">FACAPE</a>.</li>
-      <li>🌱 Estudando <b>React</b> e <b>Typescript</b>.</li>
+      <li>🎓 Graduado em <b>Ciência da Computação</b>.</li>
+      <li>🌱 Estudando <b>Next.js 14</b>.</li>
     </ul>
 </section>
 
@@ -35,18 +35,12 @@
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-**DevOps**
 -->
 **Outros**
 
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--
-**Ferramentas de Desenvolvimento**
--->
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
 <h3> 💬 Onde me encontrar: </h3>
 
