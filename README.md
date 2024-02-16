@@ -14,7 +14,7 @@
     </ul>
 </section>
 
-<h3>:rocket: Minhas Skills </h3>
+<h3>:rocket: Minhas Habilidades</h3>
 
 **Front-end**
 
