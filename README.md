@@ -13,11 +13,14 @@
       <li>🌱 Estudando <b>Next.js 14</b>.</li>
     </ul>
 </section>
+    
+<hr>
 
 <h3>:rocket: Minhas Habilidades</h3>
 
-**Front-end**
+**Front-end:**
 
+  ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![Typescript](https://img.shields.io/badge/Typescript-52addf?style=for-the-badge&logo=typescript&logoColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
@@ -25,9 +28,9 @@
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff)
 
-**Back-end**
+**Back-end:**
 
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=ffffff)
+  ![MySQL](https://img.shields.io/badge/MySQL-00748E?style=for-the-badge&logo=mysql&logoColor=ffffff)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 <!--
@@ -36,13 +39,15 @@
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 -->
-**Outros**
+**Outros:**
 
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  
-<h3> 💬 Onde me encontrar: </h3>
+      
+<hr>
+
+<h3> 💬 Onde me encontrar </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-eltjcs@gmail.com-c61d19?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eltjcs.com)](mailto:eltjcs@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0266c3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eltonjcs)](https://www.linkedin.com/in/eltonjcs)
