@@ -21,12 +21,15 @@
 **Front-end:**
 
   ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
   ![Typescript](https://img.shields.io/badge/Typescript-52addf?style=for-the-badge&logo=typescript&logoColor=ffffff)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
   
   ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
   ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffffff)
+  
+  ![HTML5](https://img.shields.io/badge/HTML-262C36?style=flat-square&logo=html5)
+  ![CSS3](https://img.shields.io/badge/CSS-262C36?style=flat-square&logo=css3&logoColor=008ED8)
 
 **Back-end:**
 
